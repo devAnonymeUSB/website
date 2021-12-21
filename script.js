@@ -1,0 +1,1 @@
+window.open('https://www.google.com/','mywindowtitle','width=10000,height=1000')

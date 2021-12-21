@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+}
+
+#welcom {
+    color: red;
+    text-align: center;
+}
+
+button {
+    padding: 10%;
+}
